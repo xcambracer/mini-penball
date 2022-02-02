@@ -1,6 +1,4 @@
-let ALUMINIOA: game.LedSprite = null
-let PELOTA: game.LedSprite = null
-if (PELOTA.isTouching(ALUMINIOA)) {
+if (null.isTouching(null)) {
     game.setScore(1)
 } else {
 	
